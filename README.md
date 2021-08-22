@@ -8,22 +8,22 @@
 
 # Ability
 - App
-- - Kotlin :star::star::star:
-- - JAVA :star:
-- - Android Studio :star::star:
+- - Kotlin ⭐⭐⭐
+- - JAVA ⭐
+- - Android Studio ⭐⭐
 
 - Web
-- - HTML, CSS :star::star::star::star:
-- - JavaScript (ES6) :star::star::star:
+- - HTML, CSS ⭐⭐⭐⭐
+- - JavaScript (ES6) ⭐⭐⭐
 
 - Firebase
-- - Auth :star::star:
-- - Firestore :star::star:
+- - Auth ⭐⭐
+- - Firestore ⭐⭐
 
 - Nomal
-- - Python :star::star::star::star::star:
-- - C :star::star::star::star:
-- - C++ :star:
+- - Python ⭐⭐⭐⭐⭐
+- - C ⭐⭐⭐⭐
+- - C++ ⭐
 
 <hr>
 
