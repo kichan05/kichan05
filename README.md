@@ -6,6 +6,14 @@
 - 선린인터넷 고등학교 116기 소프트웨어과
 - 모바일 콘텐즈 개발반 EDCAN 8기
 
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckstmznf&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckstmznf&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 # Ability
 - App
 - - Kotlin ⭐⭐⭐
@@ -26,13 +34,6 @@
 - - C++ ⭐
 
 <hr>
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckstmznf&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckstmznf&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <!-- background-image: linear-gradient(135deg,  0%, 100%); -->
