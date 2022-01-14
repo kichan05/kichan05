@@ -4,7 +4,7 @@
 
 # Profile
 - 선린인터넷 고등학교 116기 소프트웨어과
-- 모바일 콘텐즈 개발반 EDCAN 8기
+- 모바일 콘텐즈 개발반 EDCAN 8기 부부장
 
 
 
@@ -18,7 +18,7 @@
 - App
 - - Kotlin ⭐⭐⭐
 - - JAVA ⭐
-- - Android Studio ⭐⭐
+- - Android Studio ⭐⭐⭐
 
 - Web
 - - HTML, CSS ⭐⭐⭐⭐
