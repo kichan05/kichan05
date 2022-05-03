@@ -4,11 +4,11 @@
 
 # Profile
 <ul class="profile">
-    <li>선린인터넷 고등학교 소프트웨어과 2학년</li>
-    <li>모바일 콘텐즈 개발반 <img src="https://edcan.kr/img/EDCAN_LOGO.svg" height="20"> 8기 부부장</li>
+    <li style="display : flex; align-items : center; gap : 8px;">선린인터넷 고등학교 소프트웨어과 2학년</li>
+    <li style="display : flex; align-items : center; gap : 8px;">모바일 콘텐즈 개발반 <img src="https://edcan.kr/img/EDCAN_LOGO.svg" height="20"> 8기 부부장</li>
 </ul>
 
-<style>
+<!-- <style>
     ul.profile {
         
     }
@@ -27,7 +27,7 @@
         align-items : center;
         gap : 8px;
     }
-</style>
+</style> -->
 
 
 
