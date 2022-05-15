@@ -3,8 +3,10 @@
 # 안녕하세요. 아직은 공부하고 있는 고등학생 개발자 <b>박희찬</b> 입니다.
 
 ```
-I'm not Developer, I am Creator
+I'm not Developer, I am Creator 😊
 ```
+
+
 
 # Profile
 - 선린인터넷 고등학교 소프트웨어과 116기 2학년
@@ -55,7 +57,9 @@ I'm not Developer, I am Creator
 <img src="https://img.shields.io/badge/Figma-7/10-F24E1E?logo=Figma&logoColor=white">
 
 ## Algorithm
-<img src="http://mazandi.herokuapp.com/api?handle=ckstmznf&theme=warm"/>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckstmznf)](https://solved.ac/ckstmznf)
+<img src="http://mazandi.herokuapp.com/api?handle=ckstmznf&theme=dark"/>
+
 ```1일 1백준 진행중```
+
+<!-- [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckstmznf)](https://solved.ac/ckstmznf) -->
