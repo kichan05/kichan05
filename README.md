@@ -23,8 +23,8 @@ I'm not Developer, I am Creator 😊
 
 ## Lanage
 ![Python 뱃지](https://img.shields.io/badge/Python-7/10-3776AB?logo=Python&logoColor=white)
-![C]( 뱃지https://img.shields.io/badge/C-6/10-A8B9CC?logo=C&logoColor=white)
-![C++]( 뱃지https://img.shields.io/badge/C++-5/10-00599C?logo=Cplusplus&logoColor=white)
+![C 뱃지](https://img.shields.io/badge/C-6/10-A8B9CC?logo=C&logoColor=white)
+![C++ 뱃지](https://img.shields.io/badge/C++-5/10-00599C?logo=Cplusplus&logoColor=white)
 ![HTML 뱃지](https://img.shields.io/badge/HTML-8/10-E34F26?logo=HTML&logoColor=white)
 ![CSS 뱃지](https://img.shields.io/badge/CSS-6/10-1572B6?logo=CSS&logoColor=white)
 ![JavaScript 뱃지](https://img.shields.io/badge/JavaScript-8/10-F7DF1E?logo=JavaScript&logoColor=white)
