@@ -49,10 +49,10 @@ I'm not Developer, I am Creator 😊
 ![Firebase 뱃지](https://img.shields.io/badge/Firebase-6/10-FFCA28?logo=Firebase&logoColor=white)
 
 ## Design
-![Photoshop 뱃지](https://img.shields.io/badge/Photoshop-5/10-31A8FF?logo=Adobe Photoshop&logoColor=white)
-![Illustrator 뱃지](https://img.shields.io/badge/Illustrator-5/10-FF9A00?logo=Adobe Illustrator&logoColor=white)
-![Premiere 뱃지](https://img.shields.io/badge/Premiere Pro-3/10-9999FF?logo=Adobe Premiere Pro&logoColor=white)
-![After 뱃지](https://img.shields.io/badge/After Effects-3/10-9999FF?logo=Adobe After Effects&logoColor=white)
+![Photoshop 뱃지](https://img.shields.io/badge/Photoshop-5/10-31A8FF?logo=AdobePhotoshop&logoColor=white)
+![Illustrator 뱃지](https://img.shields.io/badge/Illustrator-5/10-FF9A00?logo=AdobeIllustrator&logoColor=white)
+![Premiere 뱃지](https://img.shields.io/badge/PremierePro-3/10-9999FF?logo=AdobePremierePro&logoColor=white)
+![After 뱃지](https://img.shields.io/badge/AfterEffects-3/10-9999FF?logo=AdobeAfterEffects&logoColor=white)
 ![Figma 뱃지](https://img.shields.io/badge/Figma-7/10-F24E1E?logo=Figma&logoColor=white)
 
 ## Algorithm
