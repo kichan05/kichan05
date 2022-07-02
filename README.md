@@ -38,7 +38,7 @@ I'm not Developer, I am Creator 😊
 ![MVVM 뱃지](https://img.shields.io/badge/MVVM-7/10-3DDC84?logo=MVVM&logoColor=white)
 ![Jetpack 뱃지](https://img.shields.io/badge/Jetpack-5/10-4285F4?logo=Jetpack&logoColor=white)
 ![Firebase 뱃지](https://img.shields.io/badge/Firebase-6/10-FFCA28?logo=Firebase&logoColor=white)
-![Flutter 뱃지](https://img.shields.io/badge/Flutter-2/10-02569B?logo=Flutter&logoColor=white)
+![Flutter 뱃지](https://img.shields.io/badge/Flutter-5/10-02569B?logo=Flutter&logoColor=white)
 
 ## Web
 ![HTML 뱃지](https://img.shields.io/badge/HTML-8/10-E34F26?logo=HTML&logoColor=white)
