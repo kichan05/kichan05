@@ -21,7 +21,7 @@ I'm not Developer, I am Creator 😊
 - 백엔드
 - etc... 분야에 상관없이 다양한분야에 대한 공부중
 
-## Lanage
+## Language
 ![Python 뱃지](https://img.shields.io/badge/Python-7/10-3776AB?logo=Python&logoColor=white)
 ![C 뱃지](https://img.shields.io/badge/C-6/10-A8B9CC?logo=C&logoColor=white)
 ![C++ 뱃지](https://img.shields.io/badge/C++-5/10-00599C?logo=Cplusplus&logoColor=white)
