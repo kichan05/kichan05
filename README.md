@@ -9,7 +9,7 @@ I'm not Developer, I am Creator 😊
 
 # Profile
 - 선린인터넷 고등학교 소프트웨어과 116기 2학년
-- 모바일 콘텐즈 개발반 (EDCAN)[https://edcan.kr] 8기 부부장
+- 모바일 콘텐즈 개발반 [EDCAN](https://edcan.kr) 8기 부부장
 
 
 # Ability
