@@ -2,9 +2,8 @@
 
 # 안녕하세요. 고등학생 개발자 <b>박희찬</b> 입니다.
 
-```
-I'm not Developer, I am Creator 😊
-```
+
+> 저의 지식을 활용해서 모두에게 도움을 주고 싶습니다.
 
 
 # Profile
@@ -13,13 +12,8 @@ I'm not Developer, I am Creator 😊
 
 
 # Ability
-- 앱
-- 웹
-- 알고리즘
-- 인공지능
-- 데이터 분석
-- 백엔드
-- etc... 분야에 상관없이 다양한분야에 대한 공부중
+  앱, 웹, 알고리즘, 인공지능, 데이터 분석, 백엔드<br/>
+  etc... 분야에 상관없이 다양한분야에 대한 공부중
 
 ## Language
 ![Python 뱃지](https://img.shields.io/badge/Python-7/10-3776AB?logo=Python&logoColor=white)
@@ -57,8 +51,5 @@ I'm not Developer, I am Creator 😊
 
 ## Algorithm
 ![solved.ac](http://mazandi.herokuapp.com/api?handle=ckstmznf&theme=dark")
-
+[![Solved 뱃지.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckstmznf)](https://solved.ac/ckstmznf)
 ```1일 1백준 진행중```
-
-<!-- [![Solved 뱃지.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckstmznf)](https://solved.ac/ckstmznf) -->
