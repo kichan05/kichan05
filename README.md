@@ -5,10 +5,11 @@
 
 > 저의 지식을 활용해서 모두에게 도움을 주고 싶습니다.
 
-
 # Profile
 - 선린인터넷 고등학교 소프트웨어과 116기 2학년
 - 모바일 콘텐즈 개발반 [EDCAN](https://edcan.kr) 8기 부부장
+
+[![Heechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kichan05)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # Ability
