@@ -9,7 +9,8 @@
 # Profile
 - 선린인터넷 고등학교 소프트웨어과 116기 3학년 (2021 ~ )
 - 모바일 콘텐즈 개발반 [EDCAN](https://edcan.kr) 8기 부부장
-- [My Site](https://kichan05.github.io)
+- 
+- [My Site](https://kichan.dev)
 - [Blog](https://velog.io/@ckstmznf)
 
 [![Heechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kichan05)](https://github.com/anuraghazra/github-readme-stats)
