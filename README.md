@@ -6,6 +6,7 @@
 
 # Profile
 - 선린인터넷 고등학교 소프트웨어과 116기 3학년 (2021 ~ 2023)
+- 인천대학교 정보통신공학과 (2024 ~ )
 - 모바일 콘텐즈 개발반 [EDCAN](https://edcan.kr) 8기 부장
 - [My Web](https://kichan.dev) 
 - [Blog](https://velog.io/@ckstmznf)
