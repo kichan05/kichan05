@@ -106,4 +106,3 @@
 ## Algorithm
 ![solved.ac](http://mazandi.herokuapp.com/api?handle=ckstmznf&theme=dark")
 [![Solved 뱃지.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckstmznf)](https://solved.ac/ckstmznf)
-
