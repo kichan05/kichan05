@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="./assets/banner.svg">
 
 # 안녕하세요. 개발자 <b>박희찬</b> 입니다.
 
