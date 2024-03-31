@@ -7,60 +7,30 @@
 # Profile
 - 선린인터넷 고등학교 소프트웨어과 116기 졸업 (2021 ~ 2023)
 - 모바일 콘텐즈 개발반 [EDCAN](https://edcan.kr) 8기 부장
-- [My Web](https://kichan.dev) 
-- [Blog](https://velog.io/@ckstmznf)
+- [My Web (kichan.dev)](https://kichan.dev) 
+- [Blog (velog.io/@ckstmznf)](https://velog.io/@ckstmznf)
 
 [![Heechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kichan05)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # Project
-<details>
-<summary>2021</summary>
-
-- 진법 - WEB
-  - 다양한 진법 연산 공부를 위해 제작한 웹사이트 입니다.
-  - [Repostory](https://github.com/kichan05/jinbub)
-  - [Relase](https://jinbub.chanschool77.repl.co)
-
-- Exam - EB
-  - 선린 국어 교과, 어휘 공부를 위해 제작한 웹사이트 입니다.
-  - [Repostory](https://github.com/kichan05/Sunrin-Korean-Exam)
-  - [Relase](exam.chanschool77.repl.co/)
-  
-- 공부 일기	- Android
-  - 오늘 공부한 공부법을 기록하는 앱입니다.
-  - [Repostory](https://github.com/kichan05/StudyDiary)
-  - [Relase](exam.chanschool77.repl.co/)
-
-- Trace of You - Andrid
-  - 위치 기반의 SNS. 선린 2022 디지털콘텐츠 경진대회 출품작
-  - [Repostory](https://github.com/kichan05/digital_contest)
-  - [Relase](exam.chanschool77.repl.co/)
-
-</details>
-
-<details>
-<summary>2022</summary>
-
-- 2022 EDCAN Web - WEB
-  - EDCAN의 2022년 버전 웹사이트 입니다.
-  - [Repostory](https://github.com/kichan05/2022-EDCAN-Web)
-  - [Relase](https://edcan.kr)
-
-- How to Sunrin - Android
-  - 선린 신입생을 위한 선린생활 도움앱 입니다.
-  - [Repostory](https://github.com/kichan05/How-to-Sunrin)
-  - [Relase](https://github.com/kichan05/How-to-Sunrin/releases)
-
-- 급식의 민족 - Flutter, BackEnd(Django)
-  - 우리 학교의 급식을 평가 할 수 있는, 급식 평점앱입니다.
-  - [Repostory](https://github.com/kichan05/PeopleOfMeal)
-
-- Membeder - Android
-  - IT 종사자들을 위한, 팀빌딩 앱입니다.
-  - [Repostory](https://github.com/membeder)
-
-</details>
+- Membeder
+  - IT 업종 종사자를 위한 팀빌딩 어플리케이션
+  - 팀장 / Android 개발 담당
+  - [Github](https://github.com/Membeder)
+  - [프로젝트 보고서](https://drive.google.com/file/d/1_Xco4DxNDVJppvE2l8VnLhB_r-BDjHhT/view)
+- Ai와 하는 가위바위보
+  - 2023 선린 인공지능 프로젝트
+  - 팀장 / 개발 전체 담당
+  - [Github](https://github.com/kichan05/2023-Sunrin-Ai-Project)
+  - [프로젝트 보고서](https://drive.google.com/file/d/1SoAQeyaQgwolm66yWDZ6LaOOCfC1vS5_/view?usp=sharing)
+- Multi Wallpaper
+  - Android에서 다중 배경화면을 사용 할 수 있는 어플리케이션
+  - 기획 / 개발 / 디자인 담당
+  - [Github](https://github.com/kichan05/Multi-Wallpaper)
+- 더 자세한 번역기
+  - 2023 선린 스마트 콘텐츠 앱개발 프로젝트
+  - [Github](https://github.com/kichan05/More-detailed)
 
 - 저의 더 많은 프로젝트들은 [이곳](https://heechan0213.notion.site/Heechan-s-Portfolio-77907808d4fa45bc966db7bc57189e43)을 참고해주세요
 
