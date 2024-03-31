@@ -1,14 +1,8 @@
-<img src="./assets/banner.svg">
-
 # 안녕하세요. 개발자 <b>박희찬</b> 입니다.
-
----
 
 > 저의 지식을 활용해서 모든 사람들에게 도움을 주고 싶습니다.
 
 # Profile
-
----
 - 선린인터넷 고등학교 소프트웨어과 116기 졸업 (2021 ~ 2023)
 - 모바일 콘텐즈 개발반 [EDCAN](https://edcan.kr) 8기 부장
 - [My Web (kichan.dev)](https://kichan.dev) 
@@ -18,8 +12,6 @@
 
 
 # Project
-
----
 - Membeder
   - IT 업종 종사자를 위한 팀빌딩 어플리케이션
   - 팀장 / Android 개발 담당
@@ -53,15 +45,11 @@
 - 저의 더 많은 프로젝트들은 [이곳](https://heechan0213.notion.site/Heechan-s-Portfolio-77907808d4fa45bc966db7bc57189e43)을 참고해주세요
 
 # Ability
-
----
   > 주 분야인 Android 개발을 중심으로 <br>
   > 앱, 웹, 알고리즘, 인공지능, 데이터 분석, 백엔드<br>
   > etc... 분야에 상관없이 다양한분야에 대한 공부중
 
 ## Language
-
----
 ![Python 뱃지](https://img.shields.io/badge/Python-7/10-3776AB?logo=Python&logoColor=white)
 ![C 뱃지](https://img.shields.io/badge/C-5/10-A8B9CC?logo=C&logoColor=white)
 ![C++ 뱃지](https://img.shields.io/badge/C++-5/10-00599C?logo=Cplusplus&logoColor=white)
@@ -72,8 +60,6 @@
 ![Java 뱃지](https://img.shields.io/badge/Java-4/10-007396?logo=Java&logoColor=white)
 
 ## App
-
----
 ![Kotlin 뱃지](https://img.shields.io/badge/Kotlin-6/10-7F52FF?logo=Kotlin&logoColor=white)
 ![Java 뱃지](https://img.shields.io/badge/Java-4/10-007396?logo=Java&logoColor=white)
 ![Android 뱃지](https://img.shields.io/badge/Android-6/10-3DDC84?logo=Android&logoColor=white)
@@ -83,8 +69,6 @@
 ![Flutter 뱃지](https://img.shields.io/badge/Flutter-2/10-02569B?logo=Flutter&logoColor=white)
 
 ## Web
-
----
 ![HTML 뱃지](https://img.shields.io/badge/HTML-7/10-E34F26?logo=HTML&logoColor=white)
 ![CSS 뱃지](https://img.shields.io/badge/CSS-6/10-1572B6?logo=CSS&logoColor=white)
 ![JavaScript 뱃지](https://img.shields.io/badge/JavaScript-6/10-F7DF1E?logo=JavaScript&logoColor=white)
@@ -94,8 +78,6 @@
 ![Firebase 뱃지](https://img.shields.io/badge/Firebase-5/10-FFCA28?logo=Firebase&logoColor=white)
 
 ## Design
-
----
 ![Photoshop 뱃지](https://img.shields.io/badge/Photoshop-4/10-31A8FF?logo=AdobePhotoshop&logoColor=white)
 ![Illustrator 뱃지](https://img.shields.io/badge/Illustrator-4/10-FF9A00?logo=AdobeIllustrator&logoColor=white)
 ![Premiere 뱃지](https://img.shields.io/badge/PremierePro-2/10-9999FF?logo=AdobePremierePro&logoColor=white)
@@ -103,7 +85,5 @@
 ![Figma 뱃지](https://img.shields.io/badge/Figma-8/10-F24E1E?logo=Figma&logoColor=white)
 
 ## Algorithm
-
----
 ![solved.ac](http://mazandi.herokuapp.com/api?handle=ckstmznf&theme=dark")
 [![Solved 뱃지.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckstmznf)](https://solved.ac/ckstmznf)
