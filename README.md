@@ -41,6 +41,13 @@
   [배포](https://novel.kichan.dev)
   /
   [huggingface](https://huggingface.co/kichan05/Novel-Kaguya)
+- 진법 변환 연습
+  - 이산 수학 과목 진법 변환 연습 웹
+  - React / styled-component
+  - [Github](https://github.com/kichan05/jinbub)
+  /
+  [배포](https://jinbub.kichan.dev/)
+
 
 - 저의 더 많은 프로젝트들은 [이곳](https://heechan0213.notion.site/Heechan-s-Portfolio-77907808d4fa45bc966db7bc57189e43)을 참고해주세요
 
