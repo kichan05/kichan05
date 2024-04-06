@@ -1,9 +1,10 @@
 # 안녕하세요. 개발자 <b>박희찬</b> 입니다.
 
-> 저의 지식을 활용해서 모든 사람들에게 도움을 주고 싶습니다.
+>  저의 지식을 활용해서 모든 사람들에게 도움을 주고 싶습니다.
 
 # Profile
 - 선린인터넷 고등학교 소프트웨어과 116기 졸업 (2021 ~ 2023)
+- 인천대학교 정보통신공학과 24학번 (2024 ~ )
 - 모바일 콘텐즈 개발반 [EDCAN](https://edcan.kr) 8기 부장
 - [My Web (kichan.dev)](https://kichan.dev) 
 - [Blog (velog.io/@ckstmznf)](https://velog.io/@ckstmznf)
