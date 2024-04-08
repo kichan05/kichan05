@@ -54,6 +54,12 @@
   - [Github](https://github.com/kichan05/Webtoon-Translater)
   /
   [발표자료](https://www.figma.com/proto/r0HzBngz26b1eD05LKZCiZ/%EB%B0%9C%ED%91%9C-%EC%9E%90%EB%A3%8C-%EB%AA%A8%EC%9D%8C?type=design&node-id=411-4&t=Ziid8AQXamVLK6px-0&scaling=contain&page-id=411%3A4](https://www.figma.com/proto/r0HzBngz26b1eD05LKZCiZ/%EB%B0%9C%ED%91%9C-%EC%9E%90%EB%A3%8C-%EB%AA%A8%EC%9D%8C?type=design&node-id=411-5&t=ueCbnJnC8hJj7vUo-1&scaling=contain&page-id=411%3A4&mode=design)https://www.figma.com/proto/r0HzBngz26b1eD05LKZCiZ/%EB%B0%9C%ED%91%9C-%EC%9E%90%EB%A3%8C-%EB%AA%A8%EC%9D%8C?type=design&node-id=411-5&t=ueCbnJnC8hJj7vUo-1&scaling=contain&page-id=411%3A4&mode=design)
+- 자바로 만든 체스 게임
+  - 2022 선린 자료구조 프로젝트
+  - Java
+  - [Github](https://github.com/kichan05/2022-Sunrin-DataStructure-Project)
+  /
+  [발표 자료](https://drive.google.com/file/d/1OiGBiA-CBR-pkCk_im2QG75xILhTpE_p/view?usp=sharing)
 
 
 - 저의 더 많은 프로젝트들은 [이곳](https://heechan0213.notion.site/Heechan-s-Portfolio-77907808d4fa45bc966db7bc57189e43)을 참고해주세요
