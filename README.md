@@ -9,6 +9,7 @@
 - 인천대학교 [AppCenter](https://home.inuappcenter.kr/) Android 파트 16기
 - [My Web (kichan.dev)](https://kichan.dev) 
 - [Blog (velog.io/@ckstmznf)](https://velog.io/@ckstmznf)
+- Mail me@kichan.dev
 
 [![Heechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kichan05)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/devxb/gitanimals">
