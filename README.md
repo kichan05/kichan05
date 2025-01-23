@@ -2,6 +2,7 @@
 
 >  저의 지식을 활용해서 모든 사람들에게 도움을 주고 싶습니다.
 
+
 # Profile
 - 선린인터넷 고등학교 소프트웨어과 116기 졸업 (2021 ~ 2023)
 - 모바일 콘텐즈 개발반 [EDCAN](https://edcan.kr) 8기 부장
@@ -10,6 +11,7 @@
 - [My Web (kichan.dev)](https://kichan.dev) 
 - [Blog (velog.io/@ckstmznf)](https://velog.io/@ckstmznf)
 - 메일: me@kichan.dev
+
 
 [![Heechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kichan05)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/devxb/gitanimals">
